@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Shrikant Vasmale.
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning BBA-CA.
-- 💞️ I’m looking to collaborate on 
+-🚀 Aspiring Cloud & DevOps Engineer
+-☁️ Hands-on with AWS EC2 & Linux
+-💻 Deploying real-world projects from GitHub to production
+-📈 Learning by building every day 
 - 📫 How to reach me shrikant.vasamale@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
