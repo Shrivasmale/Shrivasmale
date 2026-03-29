@@ -1,5 +1,8 @@
 # 💫 About Me:
-MCA Student 👨‍🎓<br>Devops Enthusiast 💻<br>Skills & Programming Langauges :-<br>Python Java React_JS <br>Database :-<br>SQL My SQL Mongo DB<br>Git Github Docker Kubernetes <br>Operating system :-<br>Linux Windows <br>
+MCA Student 👨‍🎓<br>Devops Enthusiast 💻
+BCA Graduate From Sinhgad Institutes
+MCA Pursuing @ Vishwakarma University 
+
 
 
 ## 🌐 Socials:
