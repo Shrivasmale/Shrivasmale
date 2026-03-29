@@ -1,7 +1,6 @@
 # 💫 About Me:
 MCA Student 👨‍🎓<br>Devops Enthusiast 💻
-<br>BCA Graduate From Sinhgad Institutes</br>
-<br>MCA Pursuing @ Vishwakarma University</br>
+<br>BCA Graduate From Sinhgad Institutes</br><br>MCA Pursuing @ Vishwakarma University</br>
 
 
 
