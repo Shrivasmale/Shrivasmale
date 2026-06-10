@@ -1,21 +1,107 @@
-# 💫 About Me:
-MCA Student 👨‍🎓<br>Devops Enthusiast 💻
-<br>BCA Graduate From Sinhgad Institutes </br>
-MCA Pursuing @ Vishwakarma University
+# 👨‍💻 Shrikant Vasamale
 
+### Full Stack Developer | AWS & Linux Enthusiast | Data Analytics Learner
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shrikantvasamale) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shrikant Vasamale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrikant.vasamale@gmail.com) 
-
-# 💻 Tech Stack:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shrivasmale&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shrivasmale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrivasmale&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AWS+%26+Linux+Enthusiast;Learning+DevOps+and+Cloud;Data+Analytics+Learner" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shrivasmale&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+```yaml
+name: Shrikant Vasamale
+location: Maharashtra, India
+education:
+  - Diploma in Computer Engineering
+  - B.Tech in Computer Science
+current_focus:
+  - Full Stack Development
+  - AWS Cloud
+  - Linux Administration
+  - DevOps Fundamentals
+  - Data Analytics
+
+interests:
+  - Web Development
+  - Cloud Computing
+  - Automation
+  - Artificial Intelligence
+  - Open Source
+
+goal:
+  - Become a skilled Software Engineer
+  - Build impactful real-world projects
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge\&logo=mysql)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge\&logo=tailwind-css)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge\&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+
+### Data Analytics
+
+![Excel](https://img.shields.io/badge/Excel-black?style=for-the-badge\&logo=microsoftexcel)
+![Power BI](https://img.shields.io/badge/PowerBI-black?style=for-the-badge\&logo=powerbi)
+
+---
+
+## 📂 Featured Projects
+
+### 🌾 GramSetu
+
+A modern web application focused on improving communication and information accessibility.
+
+**Tech Stack:** React, Vite, Tailwind CSS
+
+🔗 Live Demo: Add Your Live Link Here
+
+🔗 Repository: Add Your GitHub Repo Link Here
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 🌐 Portfolio: Add Portfolio Link
+
+---
+
+## 💡 Quote
+
+"Consistency beats talent when talent doesn't work consistently."
