@@ -14,14 +14,18 @@
 name: Shrikant Vasamale
 location: Maharashtra, India
 education:
-  - Diploma in Computer Engineering
-  - B.Tech in Computer Science
+  - BCA at D Y Patil International University (2022-2025)
+  - MCA at Vishwakarma University (2025-2027, Pursuing)
+
 current_focus:
-  - Full Stack Development
+  Cloud Infrastructure & DevOps Automation interests
+  - AWS Cloud Architecture
+  - Infrastructure as Code
+  - CI/CD Pipeline Development
   - AWS Cloud
   - Linux Administration
   - DevOps Fundamentals
-  - Data Analytics
+
 
 interests:
   - Web Development
