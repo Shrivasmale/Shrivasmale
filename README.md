@@ -98,8 +98,8 @@ A modern web application focused on improving communication and information acce
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/shrikantvasamale
+* 📧 Email: [your-email shrikant.vasamale@gmail.com](mailto:your-email shrikant.vasamale@gmail.com)
 * 🌐 Portfolio: Add Portfolio Link
 
 ---
