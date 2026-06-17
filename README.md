@@ -14,7 +14,7 @@
 name: Shrikant Vasamale
 location: Maharashtra, India
 education:
-  - BCA at Singhad Technical Education Society  (2021-2024)
+  - BCA at Sinhgad Technical Education Society  (2021-2024)
   - MCA at Vishwakarma University (2025-2027, Pursuing)
 
 current_focus:
