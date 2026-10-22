@@ -100,7 +100,7 @@ A modern web application focused on improving communication and information acce
 
 * 💼 LinkedIn: https://www.linkedin.com/in/shrikantvasamale
 * 📧 Email:shrikant.vasamale@gmail.com
-* 🌐 Portfolio: https://warm-alfajores-588c45.netlify.app/
+* 🌐 Portfolio: https://shri18.netlify.app/
 
 ---
 
